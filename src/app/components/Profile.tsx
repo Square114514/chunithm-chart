@@ -8,7 +8,7 @@ export default function Profile() {
   const [rating, setRating] = useState(17.35);
 
   return (
-    <div className="flex mb-4 text-lg bg-amber-50 rounded-lg p-4 shadow-md max-w-70 items-center justify-center gap-1.5">
+    <div className="flex mb-4 text-lg bg-amber-100 rounded-lg p-4 shadow-md max-w-70 items-center justify-center gap-1.5">
       <div className="flex flex-col">
         <span>Name: </span>
         <span>Rating: </span>

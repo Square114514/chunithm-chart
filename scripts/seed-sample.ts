@@ -23,6 +23,13 @@ const sample = [
     score: 1008129,
     rating: 17.66,
   },
+  {
+    title: "To：Be Continued",
+    level: "15+",
+    constant: 15.5,
+    score: 1008730,
+    rating: 17.62,
+  },
   // 再补几条…
 ];
 
